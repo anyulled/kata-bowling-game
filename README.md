@@ -8,7 +8,7 @@ The game consists of 10 frames as shown above.  In each frame the player has two
 
 + A **strike** is when the player knocks down all 10 pins on his first try.  The bonus for that frame is the value of the next two balls rolled.
 
-+ In the tenth frame a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame.  However no more than three balls can be rolled in tenth frame.
++ In the tenth frame, a player who rolls a spare or strike is allowed to roll the extra balls to complete the frame.  However no more than three balls can be rolled in tenth frame.
 
 
 ## Requirements
